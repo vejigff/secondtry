@@ -1,1 +1,53 @@
-# secondtry
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            yashwanth's personal website</title>
+    </head>
+    <body>
+        <img src="https://media.licdn.com/dms/image/D4D22AQHpZ_nMz3XC4A/feedshare-shrink_800/0/1682224470329?e=1686182400&v=beta&t=11fTk1JABuQnTp8kQDAz1PrQ0g9YFI2b9fjPTEcVwpY" alt="no image found">
+        <h1>YALLA VENKAT YASHWANTH</h1>
+        <P>
+            <EM>I AM A GREAT <a href="https://www.merriam-webster.com/dictionary/person">PERSON</a> </EM>
+            </P>
+            <P>things go pretty bad even though if u wish <strong>not
+                </strong> to</P>
+                <hr noshade size="3">
+                <h3><a href="C:\Users\y.venkat yashwanth\OneDrive\Desktop\secondwebpage.html">education</a></h3>
+                <p>ssem<br>fiitjee</p>
+                <table>
+                 <tr>
+                   <td> sri chaitanya</td>
+                   <td> long term</td>
+                 </tr>
+                <tr><td><strong><a href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology">IIT</a></strong>
+                         BHILAI</td>
+                    <td>hi</td> 
+                </tr>
+                </table>  
+                <table cellspacing="20">
+                    <tr>
+                       <td>
+                        <table>
+                        <tr>
+                           <td>yash</td>
+                           <td>⋆⋆⋆⋆</td>
+                        </tr>
+                        <tr><td>lol</td>
+                        <td>⋆⋆</td></tr>
+                    </table>
+                </td>
+                       <td><table>
+                        <tr>
+                           <td>yash</td>
+                           <td>⋆⋆⋆⋆</td>
+                        </tr>
+                        <tr><td>lol</td>
+                        <td>⋆</td></tr>
+                    </table></td>
+                    </tr>
+                </table>
+                
+                
+    </body>
+</html>
